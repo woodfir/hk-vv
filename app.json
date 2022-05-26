@@ -1,7 +1,7 @@
 {
     "name": "hkvl",
     "description": "hkvl",
-    "keywords": ["ve"],
+    "keywords": ["vl"],
     "env": {
         "ID": {
             "description": "UUID",
