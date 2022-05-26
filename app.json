@@ -1,18 +1,16 @@
 {
-    "name": "hv-vv",
-    "description": "Deploy V2ray VLESS on Heroku.",
-    "keywords": ["V2Ray"],
+    "name": "hkvl",
+    "description": "hkvl",
+    "keywords": ["ve"],
     "env": {
         "ID": {
             "description": "UUID",
-            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+            "value": "5e300cae-032d-46f6-aede-23d68bfff2bf"
         },
         "WSPATH": {
             "description": "WebSocket Path",
             "value": "/"
         }
     },
-    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/bclswl0827/v2ray-heroku/tree/vless",
     "stack": "container"
 }
