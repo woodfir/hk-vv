@@ -1,11 +1,11 @@
 {
-    "name": "hkvl",
-    "description": "hkvl",
-    "keywords": ["vl"],
+    "name": "uncopyll",
+    "description": "uncopyll",
+    "keywords": ["un"],
     "env": {
         "ID": {
             "description": "UUID",
-            "value": "5e300cae-032d-46f6-aede-23d68bfff2bf"
+            "value": "292d763e-e624-4a0f-90dd-105456bc3dff"
         },
         "WSPATH": {
             "description": "WebSocket Path",
