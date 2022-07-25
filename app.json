@@ -1,11 +1,11 @@
 {
-    "name": "hkvv",
-    "description": "hkvv",
-    "keywords": ["vv"],
+    "name": "uncopy",
+    "description": "uncopy",
+    "keywords": ["uncopy"],
     "env": {
         "ID": {
             "description": "UUID",
-            "value": "5e300cae-032d-46f6-aede-23d68bfff2bf"
+            "value": "3fbd5374-6861-4c36-bb9a-19082eedcda3"
         },
         "WSPATH": {
             "description": "WebSocket Path",
